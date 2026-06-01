@@ -2,1001 +2,1001 @@
   {
     "filename": "Solano-1000-1799-Governance-and-Structure.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "1000-1799",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Governance",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-1800-Board-COI.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "1800",
       "scope_of_practice": "All",
-      "policy_section": "Admin-QA-Committees",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-2200-2207-QA-and-Service-Providers.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "2200-2207",
       "scope_of_practice": "All",
-      "policy_section": "Admin-QA-Committees",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-2208-2315-Data-Reporting-and-Policy-Process.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "2208-2315",
       "scope_of_practice": "All",
-      "policy_section": "Admin-QA-Committees",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-3000-3302-EMT-Certification-and-Authorization.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "3000-3302",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Personnel",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "2025-09",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-3303-3499-Local-Scope-and-Paramedic-Accreditation.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "3303-3499",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Personnel",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-3500-3820-MICN-Preceptors-and-Discipline.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "3500-3820",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Personnel",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-4100-4500-Training-Programs.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "4100-4500",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Training",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-4600-4702-EMD-and-Optional-Authorizations.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "4600-4702",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Training",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-5001-5550-Response-and-Dispatch.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "5001-5550",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Response",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-5600-5830-Equipment-and-Aircraft.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "5600-5830",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Equipment",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-5900-Trauma-System.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "5900",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma-System",
-      "is_clinical": "true",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6100-6143-PCR-Documentation-and-Care.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6100-6143",
       "scope_of_practice": "All",
-      "policy_section": "Admin-PCR",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "2022-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6155-Resuscitation-Parameters.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6155",
       "scope_of_practice": "All",
-      "policy_section": "Admin-PCR",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6165-6190-Infection-MCI-and-Abuse.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6165-6190",
       "scope_of_practice": "All",
-      "policy_section": "Admin-PCR",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6200-Hazmat-Protocols.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "6200",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Hazmat",
-      "is_clinical": "true",
-      "ocr_applied": "true"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6300-6500-Scope-of-Practice.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6300-6500",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Scope",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6601-6605-Airway-and-IO-Procedures.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6601-6605",
       "scope_of_practice": "ALS",
-      "policy_section": "Admin-Scope",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6607-6612-Procedures-ex-Airway.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6607-6612",
       "scope_of_practice": "ALS",
-      "policy_section": "Admin-Scope",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6608-Advanced-Airway-Management.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6608",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Scope",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-6700-6802-Transport-and-Destination.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "6700-6802",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Transport",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-7100-7106-Base-Hospital-and-MCI-Comms.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "7100-7106",
       "scope_of_practice": "All",
-      "policy_section": "Admin-HospitalOps",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-7200-7210-Interfacility-Transfer.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "7200-7210",
       "scope_of_practice": "All",
-      "policy_section": "Admin-HospitalOps",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-7300-EDAP-Pediatric-Designation.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "7300",
       "scope_of_practice": "All",
-      "policy_section": "Admin-EDAP",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-8000-8100-Mission-and-Standards.pdf",
     "metadata": {
-      "document_type": "Policy",
+      "protocol_code": "8000-8100",
       "scope_of_practice": "All",
-      "policy_section": "Admin-Mission",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Policy",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-B-01-Behavioral-Emergencies.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "B-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Behavioral",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-01-Cardiac-Arrest.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-05-Wide-Complex-Tachycardia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-05",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-06-Bradycardia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-06",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-08-Narrow-Complex-Tachycardia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-08",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-09-Chest-Pain-Non-Cardiac.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-09",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-10-Chest-Pain-Cardiac.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-10",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-12-Hypertensive-Emergencies.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-12",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-C-14-Chest-Pain-Stemi.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "C-14",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Cardiac",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-D-01-Mass-Casualty-Incident.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "D-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Disaster",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-E-01-Heat-Injury-Hyperthermia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "E-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Environmental",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-E-02-Cold-Injury-Hypothermia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "E-02",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Environmental",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-E-03-Bites-Stings-Envenomation.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "E-03",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Environmental",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-E-05-Drowning-Near-Drowning.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "E-05",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Environmental",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-E-06-Hazardous-Materials-Exposure.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "E-06",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Environmental",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-01-General-Medical-Treatment.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-02-Abdominal-Pain.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-02",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-03-Nausea-And-Vomiting.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-03",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-04-Pain-Management.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-04",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-05-Allergic-Reaction-Anaphylaxis.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-05",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-06-Poisoning-Overdose.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-06",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-07-Shock.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-07",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-08-Diabetic-Emergencies.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-08",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-09-Abuse-And-Sexual-Assault.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-09",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-M-10-Sepsis.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "M-10",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Medical",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-N-01-Altered-Level-Of-Consciousness.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "N-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Neurologic",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-N-02-Seizure.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "N-02",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Neurologic",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-N-04-Stroke.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "N-04",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Neurologic",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-N-05-Syncope-Near-Syncope.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "N-05",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Neurologic",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-O-01-Vaginal-Hemorrhage.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "O-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-OBGYN",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-O-03-Normal-Childbirth.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "O-03",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-OBGYN",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-O-04-Childbirth-Complications.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "O-04",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-OBGYN",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-O-05-Severe-Pre-Eclampsia-Eclampsia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "O-05",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-OBGYN",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-01-Pediatric-Cardiac-Arrest.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-01",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-02-Neonatal-Resuscitation.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-02",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-03-Pediatric-Respiratory-Distress.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-03",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-04-Pediatric-Bradycardia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-04",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-05-Pediatric-Tachycardia.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-05",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-06-Pediatric-Shock.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-06",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-07-Pediatric-Allergic-Reaction-Anaphylaxis.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-07",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-08-Pediatric-Seizure.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-08",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-09-Pediatric-Altered-Level-Of-Consciousness.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-09",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-10-Pediatric-Poisoning-Overdose.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-10",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-11-Pediatric-Burns.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-11",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-12-Pediatric-Trauma.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-12",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-13-Pediatric-General-Medical-Treatment.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-13",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-14-Pediatric-Pain-Management.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-14",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-P-15-Pediatric-Airway-Obstruction.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "P-15",
       "scope_of_practice": "Pediatric",
-      "policy_section": "Clinical-Pediatric",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-01-Airway-Obstruction.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-02-Respiratory-Failure.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-02",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-03-General-Respiratory-Distress.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-03",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-06-Asthma-Copd-Bronchospasm.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-06",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-07-Chf-Pulmonary-Edema.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-07",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-08-Spontaneous-Pneumothorax.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-08",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-R-09-Toxic-Gas-Inhalation.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "R-09",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Respiratory",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-01-General-Trauma-Treatment.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-01",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-02-Traumatic-Cardiac-Arrest.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-02",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-03-Head-And-Spinal-Trauma.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-03",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2019-08",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-04-Chest-Trauma.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-04",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2019-08",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-05-Abdominal-And-Extremity-Trauma.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-05",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-06-Massive-Hemorrhage.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-06",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-07-Pelvic-Trauma.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-07",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-08-Eye-Injuries.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-08",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Clinical-T-09-Burns.pdf",
     "metadata": {
-      "document_type": "Protocol",
+      "protocol_code": "T-09",
       "scope_of_practice": "All",
-      "policy_section": "Clinical-Trauma",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Protocol",
+      "revision_date": "2000-03",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-FM-01-Intros-and-Reference-Lists.pdf",
     "metadata": {
-      "document_type": "Reference",
+      "protocol_code": "FM-01",
       "scope_of_practice": "All",
-      "policy_section": "Front-Matter",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Reference",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-FM-02-Clinical-Reference-Cards.pdf",
     "metadata": {
-      "document_type": "Reference",
+      "protocol_code": "FM-02",
       "scope_of_practice": "All",
-      "policy_section": "Front-Matter",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Reference",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-FM-03-Update-and-Historical-Memos.pdf",
     "metadata": {
-      "document_type": "Memo",
+      "protocol_code": "FM-03",
       "scope_of_practice": "All",
-      "policy_section": "Front-Matter",
-      "is_clinical": "false",
-      "ocr_applied": "true"
+      "document_type": "Memo",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-01-Pleural-Decompression.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-01",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "true"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-02-Wound-Packing.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-02",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-03-Tourniquet.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-03",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-04-Needle-Cricothyrotomy.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-04",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-11-Ventricular-Assist-Device-Vad.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-11",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-12-Intranasal-Medication-Administration.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-12",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "true"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-13-Epinephrine-Drip.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-13",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   },
   {
     "filename": "Solano-Procedure-S-15-Supraglottic-Airway.pdf",
     "metadata": {
-      "document_type": "Procedure",
+      "protocol_code": "S-15",
       "scope_of_practice": "ALS",
-      "policy_section": "Procedure-Skill",
-      "is_clinical": "true",
-      "ocr_applied": "false"
+      "document_type": "Procedure",
+      "revision_date": "",
+      "text_quality": "digital"
     }
   }
 ]
