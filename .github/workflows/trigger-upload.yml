@@ -1,0 +1,19 @@
+name: Trigger Solano RAG Upload
+on:
+  push:
+    paths: ['.github/workflows/trigger-upload.yml']
+  workflow_dispatch:
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run 5 batches
+        run: |
+          BASE="https://solano-uploader.marcus-c28.workers.dev"
+          for START in 0 24 48 72 96; do
+            if [ "$START" -eq 96 ]; then COUNT=4; else COUNT=24; fi
+            echo "=== Batch start=$START count=$COUNT ==="
+            curl --max-time 180 -s "$BASE/run?start=$START&count=$COUNT" | tee /tmp/batch.json | jq -r '"  succeeded=\(.succeeded) failed=\(.failed)"'
+            sleep 5
+          done
+          echo "::notice::All 5 batches dispatched"
